@@ -1,0 +1,5 @@
+# node_modulesを無視する
+node_modules/
+
+# yarnのエラーログを無視する
+yarn-error.log
